@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Kanisetty Devi Sai Susmitha 👋
 
-<!--
-**Devisaisusmitha/Devisaisusmitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **ECE Graduate | NPTEL Certified in CMOS VLSI Design - IIT Roorkee**
 
-Here are some ideas to get you started:
+I’m a VLSI engineer eager to apply my knowledge in CMOS Digital VLSI Design and gain hands-on experience to contribute to advancements in VLSI and embedded technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Skills
+- **VLSI Design**: MOS Transistors, CMOS Logic, Power Analysis, Sequential Circuits, Memory Design
+- **Embedded Systems**: Arduino, Tinkercad, Sensor Interfacing, IoT Prototyping
+- **Tools & Software**: Tanner EDA, Arduino IDE, Tinkercad Circuits 
+
+### 🚀 Featured Projects
+Check my pinned repositories below for IoT and hardware projects built with Arduino & Tinkercad.
+
+### 🎯 Currently
+Seeking entry-level roles/internships in **VLSI Design** or **Embedded Systems** to bridge silicon-level design with system applications.
+
+📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/kanisetty-devi-sai-susmitha-736937356)  
+📧 **Email**: devikanisetty661@gmail.com
+
+---
+⭐️ From [Devisaisusmitha](https://github.com/Devisaisusmitha)
