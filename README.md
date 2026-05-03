@@ -2,7 +2,7 @@
 
 🎓 **ECE Graduate | NPTEL Certified in CMOS VLSI Design - IIT Roorkee**
 
-I’m a VLSI engineer eager to apply my knowledge in CMOS Digital VLSI Design and gain hands-on experience to contribute to advancements in VLSI and embedded technology.
+As an aspiring VLSI engineer, I’m eager to apply my knowledge in CMOS Digital VLSI Design and gain hands-on industry experience to contribute to advancements in VLSI and embedded technology.
 
 ### 🔧 Technical Skills
 - **VLSI Design**: MOS Transistors, CMOS Logic, Power Analysis, Sequential Circuits, Memory Design
